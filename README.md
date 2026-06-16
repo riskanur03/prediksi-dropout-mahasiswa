@@ -1,3 +1,6 @@
+# prediksi-dropout-mahasiswa
+Studi Replikasi Prediksi Risiko Dropout dan Keberhasilan Akademik Berbasis Random Forest dan XGBoost.
+
 # Prediksi Ganda Risiko Dropout dan Keberhasilan Akademik Mahasiswa: Studi Replikasi Berbasis Random Forest dan XGBoost
 
 [![Python Version](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue.svg)](https://www.python.org/)
